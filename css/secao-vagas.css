@@ -1,0 +1,15 @@
+.secao__vagas {
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.secao__vagas--sobtitulo {
+    font-size: 14px;
+}
+
+.secao__vagas-imagem {
+    margin-top: 4em;
+
+}
+

@@ -1,0 +1,25 @@
+.secao__sobre {
+    text-align: center;
+    width: 790px;
+    margin: 5em auto;
+}
+
+.secao__sobre--sobtitulo {
+    color: var(--vermelho);
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.secao__sobre--titulo {
+    color: var(--cinza-escuro);
+    font-size: 48px;
+    font-weight: 600;
+    margin: 1em 0;
+
+}
+
+.secao__sobre--texto  {
+    color: var(--cinza);
+    font-size: 20px;
+    font-weight: 400;
+}

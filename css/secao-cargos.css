@@ -1,0 +1,42 @@
+.secao__cargos {
+    width: 768px;
+    margin: 4em auto;
+}
+
+
+
+.secao__cargos--titulo {
+    color: var(--cinza-escuro);
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+
+.secao__cargos--cartao {
+    border: 1px solid #E5E5E5;
+    border-radius: 10px;
+    width: 90%;
+    margin: 3em auto;
+}
+
+.secao__cargos--subtitulo, .secao__cargos--descricao {
+    margin-left: 0.5em;
+    margin-top: 0.5em;
+    padding: 10px;
+}
+
+.secao__cargos--subtitulo {
+    color: var(--cinza-escuro);
+    font-size: 18px;
+    font-weight: 500;
+    
+    
+}
+
+.secao__cargos--descricao {
+    display: inline-block;
+    color: var(--cinza);
+    font-size: 16px;
+    font-weight: 500;
+    padding: 1em;
+}

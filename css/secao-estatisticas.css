@@ -1,0 +1,30 @@
+.secao__estatisticas--lista {
+    display: flex;
+    justify-content: space-around;
+    width: 75%;
+    margin: 7em auto;
+}
+
+.secao__estatisticas--item {
+    width: 280px;
+    
+}
+
+.secao__estatisticas--numero {
+    font-size: 60px;
+    font-weight: 600;
+    color: var(--vermelho);
+}
+
+.secao__estatisticas--titulo {
+    font-size: 18px;
+    font-weight: 500;
+    color: var(--cinza-escuro);
+    margin: 1em 0;
+}
+
+.secao__estatisticas--descricao {
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--cinza);
+}
